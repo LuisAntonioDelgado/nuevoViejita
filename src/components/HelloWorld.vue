@@ -137,7 +137,7 @@
                     </div>
                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                         data-parent="#accordionExample">
-                        <div class="card-body" style="font-size:1.5rem">
+                        <div class="card-body" style="font-size:1.5git initrem">
                             En este ultimo paquete manejaremos una oferta especial, en esos dias dificiles en donde esta hermosa princesa se sienta perdida, se le viene ofreciendo el paquete de un dìa exclisivo para ella. Sin limites, comida, baile, nadita, amor, diversion y ternura en todo lo que ella quiera.
                         </div>
                     </div>
